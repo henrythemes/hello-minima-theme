@@ -54,7 +54,7 @@ See a live demo @ [`henrythemes.github.io/hello-minima-theme` »](https://henryt
 
 
 
-### Bonus - Q: Can I Use my Own Styling? A: Hello, Jekyll! Theme - Get Started in 60 Seconds, The Blank Page Edition
+### Bonus - Q: Can I Use my Own Styles / Design / Theme? A: Hello, Jekyll! Theme - Get Started in 60 Seconds, The Blank Page Edition
 
 To start from scratch with no styles (that is, a blank page / site) see
 the [**Hello, Jekyll! Theme - Get Started in 60 Seconds**](https://github.com/henrythemes/hello-jekyll-theme) repo.
