@@ -1,0 +1,14 @@
+### your site title here
+
+title: Hello, Minima!
+
+
+### let's use the minima theme (see https://github.com/jekyll/minima)
+
+theme: minima
+
+
+### exclude the instructions / write-up in the README.md
+
+exclude:
+- README.md
