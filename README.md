@@ -5,7 +5,7 @@ Setup Jekyll with GitHub Pages in 60 seconds using Minima - the gem-packaged the
 
 ### Step 1 - Create the Jekyll Configuration / Settings File
 
-Add your site title e.g. Your Site Title and add the minima theme
+Add your site title e.g. Your Site Title and let's use the minima theme
 
 `_config.yml`:
 
@@ -17,7 +17,8 @@ theme: minima
 
 ### Step 2 - Create the Index Page
 
-Add your index (front) page with a page title e.g. Welcome:
+Add your index (front) page with a page title e.g. Welcome and using the default layout (built into Mimina and ready-to-use "out-of-the-gem"):
+
 
 `index.md`:
 
