@@ -1,7 +1,9 @@
 
-# Hello, Minima! Theme 
+# Hello, Minima! Theme - Get Started in 60 Seconds
 
-Get started in 60 seconds w/ Minima - the gem-packaged theme.
+Setup Jekyll with GitHub Pages in 60 seconds using Minima - the gem-packaged theme.
+
+
 
 
 
