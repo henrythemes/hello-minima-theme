@@ -31,18 +31,6 @@ layout: default
 Hello, Minima!
 ```
 
-
-### Step 3 - Add the Minima Styles
-
-`css/main.scss`
-
-```
----
----
-
-@import "minima";
-```
-
 That's it. Ready for serving.
 
 Go on GitHub in your repos **Settings** tab to the **GitHub Pages** sections and pick **Use the master branch** in **Select Source**.
