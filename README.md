@@ -63,5 +63,5 @@ Use it as you please with no restrictions whatsoever.
 
 #### Questions? Comments?
 
-Post them to the [wwwmake forum](http://groups.google.com/group/wwwmake). Thanks!
+Post them to the [jekyll talk forum](http://talk.jekyllrb.com). Thanks!
 
